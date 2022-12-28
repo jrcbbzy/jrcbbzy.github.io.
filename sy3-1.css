@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+h2{
+	text-align: center;
+	color: red;	
+}
+p{
+	color: black;
+	text-indent: 2em;
+	line-height: 20px;
+}
+h3{
+	text-align: left;
+	color: green;	
+}
+p{
+	color: black;
+	text-indent: 2em;
+	line-height: 20px;
+}
+body{
+	background-color:ivory;
+}
