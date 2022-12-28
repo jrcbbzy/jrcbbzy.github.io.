@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>计算器</title>
+
+</head>
+<body>
+<script>
+    function alert(){
+        var s1=prompt("请输入数值1","0");
+        var op1=prompt("请输入运算符","+-/*");
+        var s2=prompt("请输入数值2","0");
+		var s3=prompt("请输入数值3","0");
+        var s=0;
+		s=（Number(s1)+Number(s2)+Number(s3))/3;
+        s=prompt("运算结果为：",s);
+    }
+</script>
+
+<input type="button" onclick="alert()" value="点击计算">
+
+</body>
+</html>
+
