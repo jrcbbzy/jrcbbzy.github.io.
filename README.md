@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>郭安琪 - 个人简历,个人主页，个人介绍，个人简介</title>
-	<link rel="shortcut icon" href="[images/favicon.ico](https://github.com/jrcbbzy/jrcbbzy.github.io./blob/main/QQ%E5%9B%BE%E7%89%8720211229153337.jpg)" type="image/x-icon">
+	<link rel="shortcut icon" href=(https://github.com/jrcbbzy/jrcbbzy.github.io./blob/main/QQ%E5%9B%BE%E7%89%8720211229153337.jpg type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body oncontextmenu="return false;" onselectstart="return false;" unselectable="on" ondragstart="return false;">
